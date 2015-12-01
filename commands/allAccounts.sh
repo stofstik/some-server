@@ -1,0 +1,1 @@
+./command.sh "all accounts"
